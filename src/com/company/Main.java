@@ -45,6 +45,7 @@ public class Main {
         System.out.println();
 
         System.out.println("This is your future...");
+        System.out.println();
 
             int yearsUntilRetirement;
             if (age % 2 == 0) {
